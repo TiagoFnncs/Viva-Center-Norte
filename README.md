@@ -45,7 +45,9 @@ O design e o protótipo deste projeto foram desenvolvidos no Figma.
 
 1. O protótipo foi adaptado para uso em dispositivos móveis, por isso, ao visualizar no PC, algumas partes da tela podem ficar cortadas.
 2. A primeira página do protótipo ficará aberta por 3 segundos e logo em seguida irá para a página inicial.
-3. Não houve tempo suficiente para desenvolver todas as telas, portanto, algumas telas foram deixadas vazias e algumas funcionalidades podem não funcionar corretamente.
+3. A tela inicial de missões aparecerá por 3 segundos antes de ir para a próxima tela.
+4. A tela de instruções sobre como usar a plataforma aparecerá apenas uma vez.
+5. Não houve tempo suficiente para desenvolver todas as telas, portanto, algumas telas foram deixadas vazias e algumas funcionalidades podem não funcionar corretamente.
 
 ## Licença
 
