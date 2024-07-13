@@ -37,6 +37,7 @@ Implementar um sistema de pontos, substituindo o modelo tradicional de cashback,
 
 O design e o protótipo deste projeto foram desenvolvidos no Figma.
 
+- **Link de Compartilhamento do Designer**: [Compartilhar Design](https://www.figma.com/design/147M4vJau7xNksmd94dtfM/Viva-Center-Norte?node-id=0-1&t=tSHpJwhoJ1pbej6i-1)
 - **Dev Mode Link**: [Visualizar no Dev Mode](https://www.figma.com/design/147M4vJau7xNksmd94dtfM/Viva-Center-Norte?node-id=0-1&m=dev&t=tSHpJwhoJ1pbej6i-1)
 - **Link do Protótipo**: [Visualizar Protótipo](https://www.figma.com/proto/147M4vJau7xNksmd94dtfM/Viva-Center-Norte?t=tSHpJwhoJ1pbej6i-1)
 
